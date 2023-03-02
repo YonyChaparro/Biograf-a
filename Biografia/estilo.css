@@ -1,0 +1,19 @@
+.fuenteTexto{
+    font-family: "Barlow";
+}
+
+.nombre{
+    color: blue;
+    margin-bottom: 12px;
+    text-align: center;
+    
+}
+
+.foto{
+    width: 250px;
+}
+
+.bibiografía{
+    text-align: center;
+}
+
