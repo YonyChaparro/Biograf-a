@@ -3,7 +3,6 @@
 }
 
 .nombre{
-    color: blue;
     margin-bottom: 12px;
     text-align: center;
     
@@ -17,3 +16,57 @@
     text-align: center;
 }
 
+.articulo{
+    display: flex;
+    justify-content: center;
+    max-width: 90ch;
+    margin:0 auto;
+    text-align: justify;
+
+}
+
+.fotosss{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+}
+
+.Andina{
+    max-height: 250px;
+    padding: 20px;
+
+}
+.Llanera{
+    max-height: 250px;
+    padding: 20px;
+    padding-bottom: 0px;
+
+}
+
+.fotosss2{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.Andina2{
+    max-height: 250px;
+    padding: 10px;
+
+}
+.Llanera2{
+    max-height: 250px;
+    padding: 10px;
+
+}
+.redes{
+    display: flex;
+    justify-content: center;
+}
+
+.logoInsta{
+    max-height: 29px;
+}
+.textoURL{ /*QUEDAMOS ACÁ, REVISAR EL ASPECTO DE LOS LINKS*/
+    font-family: "Barlow"
+} 
