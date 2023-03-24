@@ -1,0 +1,60 @@
+header{
+    background-color: rgb(45, 45, 45);
+    color:aliceblue;
+}
+
+body{
+    padding:0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+nav{
+    background-color:dimgrey;
+    color:aliceblue;
+    padding: 20px;
+    display: flex;
+
+}
+
+nav ul{
+    display: flex;
+    margin: 0;
+    padding: 0px;
+    list-style: armenian;
+
+}
+
+nav ul li{
+    color:aliceblue;
+    display: flex;
+    margin: 0;
+    padding: 10px;
+    list-style: armenian;
+    text-decoration: none;
+}
+
+.división{
+    display: flex;
+}
+
+aside{
+    width: 25%;
+    flex-direction: column;
+    background-color:rgb(186, 186, 186);
+    text-align: center;
+
+}
+
+aside img {
+    width: 150px;
+}
+
+main{
+    width: 75%;
+    flex-direction: column;
+    padding: 3%;
+
+}
+
